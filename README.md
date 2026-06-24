@@ -186,7 +186,7 @@ Library / Package | What are they used for in the project?
     - Натисніть кнопки Control + J або натисніть кнопку Terminal щоб створити новий термінал
     - в термінал напишіть це:
         ```python
-            git clone https://github.com/Pranichek/Social-Network.git
+            git clone https://github.com/Valentin5944/Social-network.git
         ```
 3. Підготовка проєкту 
     - Щоб перейти в папку проєкта, напишіть в термінал це:

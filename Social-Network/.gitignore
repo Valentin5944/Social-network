@@ -1,0 +1,6 @@
+__pacache__
+venv/
+.env
+instance/
+.DS_Store
+.prettierrc
